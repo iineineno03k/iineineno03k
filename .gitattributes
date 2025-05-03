@@ -1,0 +1,4 @@
+# nand2tetrisのファイルを言語統計から除外
+*.hdl linguist-detectable=false
+*.hack linguist-detectable=false
+*.asm linguist-detectable=false
